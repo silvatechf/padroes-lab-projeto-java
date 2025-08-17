@@ -13,7 +13,6 @@ Facade: Fornece uma interface unificada para um conjunto de interfaces em um sub
 Como Usar
 
 1.  Clone este repositório:
-    ```bash[https://github.com/silvatechf/padroes-lab-projeto-java.git]
-    ```
+    ```bash[https://github.com/silvatechf/padroes-lab-projeto-java.git]```
 2.  Navegue até o diretório do projeto.
 3.  Compile e execute os exemplos em sua IDE Java preferida. Cada padrão está em seu próprio pacote para facilitar a visualização.
